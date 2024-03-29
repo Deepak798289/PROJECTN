@@ -18,5 +18,10 @@
 ```
  npm run dev
 ```
+5.install tailwindcss
+```
+  .npm install -D tailwindcss
+  .npx tailwindcss init
+```
 
 
